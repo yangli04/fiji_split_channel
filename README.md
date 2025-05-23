@@ -1,6 +1,6 @@
 # fiji_split_channel
 
-This is a short macro for Fiji to split the channels and create merged image in .lif file from immunofluorescence experiments. There are three default colors: Blue, Red and Green. Please modify that before you use the macro, especially make sure the sequences in `colors` variable is correct.
+This is a short macro for Fiji to split the channels and create merged image in .lif file from immunofluorescence experiments. There are three default colors: Blue, Red and Green. Please modify that before you use the macro to make sure the sequences in `colors` variable is correct.
 
 ## How to use
 1. Open Fiji software.
